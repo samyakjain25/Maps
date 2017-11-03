@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-0aa222cf2ca353ffad3fe0d729ff442e2a56c1c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-9511c70bb81054fb7bf2ed37c6184fe653c008ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-de5d91cdb2271f205037f5d51a4325425511b637.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-e733e00e35f771fb48f2da75b6840956fdb19f5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-48bf0df586655c1998effc302c6c9fa8595a04d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-fc06b04a6cb593f4100dda34b8110e674785ede8.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-d74daa402e9c722833a483fbd0288dadd8486601.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-fd38966f0bf3fe73bd1d2e76f47493795e2d37c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-abe3816f6936b9e3ddf648ae63df57cdc797c94c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-c4920e5e55467f4a098e8798d44de90250e8e069.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-215b5e1efff1a5012d846943540f6cd7607c28dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-80a28c73d8bb2cf5b8fb93ddd2923c30353d9a7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-88a608733032403452618558be66bb6593172376.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-4516cfb4b77b4ce0d939242a68efce9061aa78c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-5fe036bb83aa2ed1aec8ab20f9121c6825afbff0.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-08a55dd620155dbb68d1d42f9e7a98c3ae95e160.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-f7f13053148f57cd6e7f595158c67893c7f14944.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-5d31d6c12631a8400d8c12692548687a173c73d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-42c27f88c475651479e42bf62d67a98c0d5d878c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-d03c428cf088af3643fcd8d79f46e0354507ea15.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-d275043babda8653c46ad5e216b556ea3aa3562f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-6c90d4f2ab80c66893dd8fadd3f9ec58042db10c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\classes-237410c3a3344408a1f84d6a68efeee3182360dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\jain\AndroidStudioProjects\Maps\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-39ec50e00b357fb00c8301433cdf1e7e119533be.jar" />
+    </item>
+
+</items>
